@@ -16,7 +16,7 @@ body {
 	border: 0 #cecdcc;
 	border-radius: 0;	
 	float: left;
-	margin-right: 1.25rem;
+	margin: 0 1.25rem 1rem 0;
 }
 .card-img-top {
 	border-bottom: 0.3rem solid #dd7537;
