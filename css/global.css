@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*
+ * ##### NAME:  global.css
+ * ##### VERSION: v0.1
+ * ##### UPDATED: 08/03/2018
+ * ##### AUTHOR: Nina Mokoosio */
+body {
+	background-color: #f1f1f1;
+}
+.container {
+	max-width: 1200px;
+}
+.card {
+	border: 0 #cecdcc;
+	border-radius: 0;	
+	float: left;
+	margin-right: 1.25rem;
+}
+.card-img-top {
+	border-bottom: 0.3rem solid #dd7537;
+}
+
+.card-body {
+    background-color: #FFFFFF;
+	padding: 1.25rem 1.75rem;
+}
+
+.card-subtitle {
+	color: #b1b1b1;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.card-title {
+	color: #4d4d4e;
+	font-size: 1.6rem;
+	font-family: 'Lato', sans-serif;
+}
+
+.card-text {
+	
+
+	color: #727272;
+	font-family: 'Merriweather', serif;
+}
+
+.card-link{
+	color: #dd7537;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
